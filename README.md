@@ -7,6 +7,9 @@
 ![API](https://img.shields.io/badge/API-IPC-purple)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
 
+
+<img src="doc/ezgif-8c0a93f01d51c961.gif" width="800"/>
+
 ## Features
 
 - Select a **pad**, **track**, or **arc track** to remember its net.
