@@ -30,7 +30,7 @@
 ## Requirements
 
 - **KiCad 10.x**, with IPC API support enabled.
-- **Windows** (the current PCM package targets Windows).
+- **Windows** (the current PCM package targets Windows) and not tested on Linux
 - Python runtime supplied with KiCad 10.
 - `kicad-python >= 0.8.0 (listed in `requirements.txt`).
 - `wxPython` for the graphical interface.
